@@ -1,0 +1,16 @@
+numpy
+#pytorch
+pyyaml
+torch==1.5.0
+#fastBPE
+sacremoses
+subword_nmt
+sacrebleu
+pytorch-transformers==1.0.0
+#hazm
+opustools
+sentencepiece==0.1.91
+#camel-tools
+scikit-learn
+transformers==3.0.2
+tensorboardX
