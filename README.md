@@ -96,7 +96,7 @@ domain=law
 ./target_task/run_all_dgx.sh
 ```
 
-### References
+### Citing
 Please cite the following paper if you found the resources in this repository useful.
 ```
 @inproceedings{vu-etal-2021-generalised,
