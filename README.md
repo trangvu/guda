@@ -1,5 +1,5 @@
 # guda
-Source code for paper "Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection" - EMNLP21
+Source code for paper ["Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection"](https://aclanthology.org/2021.emnlp-main.268/) - EMNLP21
 
 ### Instalation
 
@@ -94,4 +94,25 @@ domain=law
 
 ## Run UDA and evaluation
 ./target_task/run_all_dgx.sh
+```
+
+### References
+Please cite the following paper if you found the resources in this repository useful.
+```
+@inproceedings{vu-etal-2021-generalised,
+    title = "Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection",
+    author = "Vu, Thuy-Trang  and
+      He, Xuanli  and
+      Phung, Dinh  and
+      Haffari, Gholamreza",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.268",
+    doi = "10.18653/v1/2021.emnlp-main.268",
+    pages = "3335--3346"
+}
+
 ```
